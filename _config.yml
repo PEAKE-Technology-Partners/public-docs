@@ -14,7 +14,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 url: https://peake-technology-partners.github.io/public-docs
 
 aux_links:
-  Main Website: https://www.peaketechnology.com
+  [PEAKE Home Page](https://peaketechnology.com){: .btn .btn-blue }
 
 aux_links_new_tab: true
 
