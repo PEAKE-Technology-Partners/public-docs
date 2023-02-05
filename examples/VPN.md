@@ -1,6 +1,6 @@
 ---
 title: How to Create a VPN on an Mac Computer
-layout: home
+layout: page
 parent: Examples
 
 ---
