@@ -1,6 +1,7 @@
 title: PEAKE Technology Partners Publc Blog
 description: A Public Blog, where we can post content and tutorials.
-theme: just-the-docs
+remote_theme: "pmarsceill/just-the-docs"
+#theme: just-the-docs
 
 url: https://peake-technology-partners.github.io/public-docs
 
