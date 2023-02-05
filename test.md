@@ -1,6 +1,6 @@
 ---
-title: Testing Website
-layout: home
+title: All About Me!
+layout: about
 ---
 
 **This is an Public Documentation website for Testing only, for [PEAKE Technology Partners]**
