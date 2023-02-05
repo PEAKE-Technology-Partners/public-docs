@@ -1,6 +1,9 @@
 ---
 title: Examples
 layout: home
+has_children: true
+has_toc: true
+
 ---
 
 This is an Public Documentation website for Testing only, for [PEAKE Technology Partners]
