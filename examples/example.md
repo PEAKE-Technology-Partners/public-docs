@@ -2,22 +2,23 @@
 title: Examples
 layout: home
 has_children: true
-has_toc: true
+has_toc: false
 
 ---
 
 This is an Public Documentation website for Testing only, for [PEAKE Technology Partners]
 
 
-[Browse our documentation][Repo Link] to learn more about how to use this website.
 
 
+[Browse out Repository][Repo Link] to learn more about how this website is built.
 
-----
+---
 
-[^1]: [This is test bullet point 1](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-[^2]: [This is test bullet point 2](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-[^3]: [This is test bullet point 3](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+Welcome to the Examples Page! This is where you can find examples of documentation that we may be hosting. An example of this is the [VPN Setup for Mac] [VPN Setup Link] that I have created to show you some of the functionality of this site, including the ability to have nested documentation!
+
+
 
 [PEAKE Technology Partners]: https:/peaketechnology.com
 [Repo Link]: https://github.com/PEAKE-Technology-Partners/public-docs
+[VPN Setup Link]: https://peake-technology-partners.github.io/public-docs/examples/VPN.html
