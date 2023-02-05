@@ -15,11 +15,14 @@ This is an Public Documentation website for Testing only, for [PEAKE Technology 
 
 ----
 
-Make sure to have the following information available
+**Make sure to have the following information available:**
 
-[^1]: [VPN Hostname].
-[^2]: [VPN Pre-Shared Key].
-[^3]: [VPN Username and Password].
+
+1. VPN Hostname
+2. VPN Pre-Shared Key
+3. VPN Username and Password
+
+
 
 [PEAKE Technology Partners]: https:/peaketechnology.com
 [Repo Link]: https://github.com/PEAKE-Technology-Partners/public-docs
