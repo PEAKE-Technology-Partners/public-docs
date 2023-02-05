@@ -18,6 +18,8 @@ This is all about me!
 
 I like to work on computers and like to design solutions around our clients needs. This is a test page, that we can pull up. 
 
+![MRl_cKi4_400x400](https://user-images.githubusercontent.com/59022873/216837905-f8074126-5b3c-407d-8610-67476361f55c.jpg)
+
 
 
 [PEAKE Technology Partners]: https:/peaketechnology.com
